@@ -20,7 +20,7 @@
       <li>2 week long Jobboard project in full-stack using Node.js/Express.js</li>
       <li>3 week long 2D game project in Java, you can look at the demo</li>
       <li>2 week long AdminSys project with VMs and networking</li>
-    </ul>
+    </ul> <br>
   <p>🏠 At Home</p>
     <ul>
       <li>Port-scanner to detect open/closed ports </li>
