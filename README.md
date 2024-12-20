@@ -45,7 +45,7 @@
 
 ## Let's connect ##
 
-<p>If you have a job opportunity in the Grand-Est region in France, contact me. And if you ever have suggestions or project ideas, I'm open to discuss.</p>
+<p>If you have an internship opportunity in the Grand-Est region in France, contact me. And if you ever have suggestions or project ideas, I'm open to discuss.</p>
 <p>Have a good day and maybe look at my projects. 😉</p>
 
 <!--
