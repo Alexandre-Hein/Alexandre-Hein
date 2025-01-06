@@ -1,13 +1,12 @@
 <h1> Hey there 👋 Welcome to my GitHub ! </h1> 
 
-<p>I'm a student at Epitech Strasbourg with a background in English (weird combo, but it works!). Currently adventuring the IT world, I'm now turning to the Cybersecurity and AdminSys realm and experimenting (in complete legality). When I'm not playing with VMs or getting <strong>404 Not Found</strong>, I'll be delving into algorithms or learning Cybersecurity. 🔐</p>
+<p>I'm a student at Epitech Strasbourg with a background in English. Currently focused on the IT world, I am particularly interested in Cybersecurity and System Administration. My work involves experimenting with VMs, algorithms, enhancing my understanding of cybersecurity, and learning about many other things. 🔐</p>
 
 ## What I do ##
 
 <ul>
-  <li>🔒 Cybersecurity enthusiast: Trying to explore this world and hopefully never end up in jail.</li>
-  <li>🧙‍♂️ Networking wizard: For some reasons, my VMs start breaking when I touch them.</li>
-  <li>🧼 Code cleaner: Cleaning up code is my thing.</li>
+   <li> Cybersecurity enthusiast: Exploring various aspects of cybersecurity and improving my skills in securing systems.</li> 
+  <li> Networking: Working on setting up and configuring network environments, including VM-based projects.</li> 
 </ul>
 
 
