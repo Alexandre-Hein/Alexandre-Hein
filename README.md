@@ -5,7 +5,7 @@
 ## What I do ##
 
 <ul>
-   <li> Cybersecurity enthusiast: Exploring various aspects of cybersecurity and improving my skills in securing systems.</li> 
+   <li> Cybersecurity enthusiast: Exploring various aspects of cybersecurity and improving my skills in securing systems (learning on TryHackMe).</li> 
   <li> Networking: Working on setting up and configuring network environments, including VM-based projects.</li> 
 </ul>
 
