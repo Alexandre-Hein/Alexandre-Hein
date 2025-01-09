@@ -33,6 +33,9 @@
   <li>🌐 Advanced networking</li>
   <li>🔐 Cybersecurity basics and different teams (Red/Blue)</li>
   <li>🧠 Algorithms and data structure</li>
+  <li>TryHackMe: Below are my stats, if you are curious (will keep updated)</li>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/AlexandreH.png" alt="Your Image Badge" />
+
 </ul>
 
 ## About me ##
