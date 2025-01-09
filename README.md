@@ -17,7 +17,7 @@
     <ul>
       <li>Short portfolio project to discover Web programming (HTML/CSS)</li>
       <li>2 week long Jobboard project in full-stack using Node.js/Express.js</li>
-      <li>3 week long 2D game project in Java, you can look at the demo</li>
+      <li>3 week long 2D game project in Java</li> <!-- @TODO: implement demo -->
       <li>2 week long AdminSys project with VMs and networking</li>
     </ul> <br>
   <p>🏠 At Home</p>
