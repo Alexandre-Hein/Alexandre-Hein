@@ -1,6 +1,6 @@
 <h1> Hey there 👋 Welcome to my GitHub ! </h1> 
 
-<p>I'm a student at Epitech Strasbourg with a background in English. Currently focused on the IT world, I am particularly interested in Cybersecurity and System Administration. My work involves experimenting with VMs, algorithms, enhancing my understanding of cybersecurity, and learning about many other things. 🔐</p>
+<p>I'm a student at Epitech Strasbourg with a background in English. Currently focused on the IT world, I am particularly interested in Cybersecurity and System Administration. My work involves experimenting with VMs,<!-- algorithms,--> enhancing my understanding of cybersecurity, and learning about many other things. 🔐</p>
 
 ## What I do ##
 
@@ -19,6 +19,7 @@
       <li>2 week long Jobboard project in full-stack using Node.js/Express.js</li>
       <li>3 week long 2D game project in Java</li> <!-- @TODO: implement demo -->
       <li>2 week long AdminSys project with VMs and networking</li>
+      <li>8 days of working on an Internet Relay Chat (IRC)</li>
     </ul> <br>
   <p>🏠 At Home</p>
     <ul>
@@ -32,10 +33,9 @@
 <ul>
   <li>🌐 Advanced networking</li>
   <li>🔐 Cybersecurity basics and different teams (Red/Blue)</li>
-  <li>🧠 Algorithms and data structure</li>
+  <!-- <li>🧠 Algorithms and data structure</li> -->
   <li>TryHackMe: Below are my stats, if you are curious (will keep updated)</li>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/AlexandreH.png" alt="Your Image Badge" />
-
+  <img src="https://tryhackme-badges.s3.amazonaws.com/AlexandreH.png" alt="Your Image Badge" />
 </ul>
 
 ## About me ##
