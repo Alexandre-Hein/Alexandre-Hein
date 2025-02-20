@@ -1,12 +1,13 @@
 <h1> Hey there 👋 Welcome to my GitHub ! </h1> 
 
-<p>I'm a student at Epitech Strasbourg with a background in English. Currently focused on the IT world, I am particularly interested in Cybersecurity and System Administration. My work involves experimenting with VMs,<!-- algorithms,--> enhancing my understanding of cybersecurity, and learning about many other things. 🔐</p>
+<p>I'm a student at Epitech Strasbourg with a background in English. While I am particularly passionate about Cybersecurity and System Administration, I'm also exploring different fields in software development both in school and at home. My work involves experimenting with VMs,<!-- algorithms,--> enhancing my understanding of cybersecurity, and learning about many other things in various fields. 🔐</p>
 
 ## What I do ##
 
 <ul>
-   <li> Cybersecurity enthusiast: Exploring various aspects of cybersecurity and improving my skills in securing systems (learning on TryHackMe).</li> 
-  <li> Networking: Working on setting up and configuring network environments, including VM-based projects.</li> 
+  <li>Aspiring IT developer: Continuously discovering and exploring new fields in IT </li>
+  <li>Cybersecurity enthusiast: Exploring various aspects of cybersecurity and improving my skills in securing systems (learning on TryHackMe).</li> 
+  <li>Networking: Working on setting up and configuring network environments, including VM-based projects.</li> 
 </ul>
 
 
@@ -19,7 +20,7 @@
       <li>2 week long Jobboard project in full-stack using Node.js/Express.js</li>
       <li>3 week long 2D game project in Java</li> <!-- @TODO: implement demo -->
       <li>2 week long AdminSys project with VMs and networking</li>
-      <li>8 days of working on an Internet Relay Chat (IRC)</li>
+      <li>4 days of working on an Internet Relay Chat (IRC)</li>
     </ul> <br>
   <p>🏠 At Home</p>
     <ul>
