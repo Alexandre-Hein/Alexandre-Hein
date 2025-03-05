@@ -20,7 +20,7 @@
       <li>2 week long Jobboard project in full-stack using Node.js/Express.js</li>
       <li>3 week long 2D game project in Java</li> <!-- @TODO: implement demo -->
       <li>2 week long AdminSys project with VMs and networking</li>
-      <li>4 days of working on an Internet Relay Chat (IRC)</li>
+      <li>4 week long Internet Relay Chat (IRC) project</li>
     </ul> <br>
   <p>🏠 At Home</p>
     <ul>
@@ -48,7 +48,7 @@
 
 ## Let's connect ##
 
-<p>If you have an internship opportunity in the Grand-Est region in France, feel free to contact me. And if you ever have suggestions or project ideas, I'm open to discuss those matters.</p>
+<p>If you have an internship opportunity (alternance) in the Grand-Est region in France, feel free to contact me. And if you ever have suggestions or project ideas, I'm open to discuss those matters.</p>
 <p>Have a good day and maybe look at my projects. 😉</p>
 
 <!--
